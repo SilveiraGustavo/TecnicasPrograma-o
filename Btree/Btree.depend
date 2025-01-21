@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1737496221 source:c:\users\gusta\onedrive\Área de trabalho\computação\engenharia de computação - 8 período\técnicas de programação\btree\src\btreenode.cpp
+	"BTreeNode.h"
+	<iostream>
+
+1737495914 c:\users\gusta\onedrive\Área de trabalho\computação\engenharia de computação - 8 período\técnicas de programação\btree\include\btreenode.h
+	<iostream>
+	<fstream>
+	<vector>
+
+1737496232 source:c:\users\gusta\onedrive\Área de trabalho\computação\engenharia de computação - 8 período\técnicas de programação\btree\src\btree.cpp
+	"BTree.h"
+	<iostream>
+	<fstream>
+
+1737496325 c:\users\gusta\onedrive\Área de trabalho\computação\engenharia de computação - 8 período\técnicas de programação\btree\include\btree.h
+	<BTreeNode.h>
+
